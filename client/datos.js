@@ -33,9 +33,27 @@ const education = [
         institution: "MasterMedia",
         date: "2022 - actual",
         status: "Cursando"
-    }
+    }, 
+    {
+      degree: "Especialista en Ciencia de Datos",
+      institution: "Next Training Valencia",
+      date: "2023 - actual",
+      status: "Cursando"
+  },
+  {
+    degree: "Administrador de Azzure",
+    institution: "Next Training Valencia",
+    date: "2023 - actual",
+    status: "Cursando"
+}
 ]
 const experience = [
+    {
+      position: "Backend Developer",
+      company: "Dogtor",
+      duration: "2022 - 2023",
+      description:"Experiencia en soporte backend utilizando Node.js y Next.js en la startup Dogtor, donde trabajé en tareas como la creación de API RESTful, integración de bases de datos y lógica empresarial compleja."
+    },
     {
       position: "Desarrollador RPA",
       company: "Jaume y Sere",
@@ -97,7 +115,7 @@ const experience = [
   const skills = [
     { name: "HTML 5", percent: 90, className: "html" },
     { name: "JavaScript-TypeScript", percent: 95, className: "javascript" },
-    { name: "Node JS", percent: 85, className: "js" },
+    { name: "Next JS", percent: 85, className: "js" },
     { name: "React Hooks JS", percent: 90, className: "react" },
     { name: "NodeJS", percent: 87, className: "node" },
     { name: "C#", percent: 90, className: "C" },
@@ -108,7 +126,13 @@ const experience = [
     { name: "Chakra UI", percent: 80, className: "chakra" },
     { name: "UI Path", percent: 80, className: "uipath" },
     { name: "Git", percent: 90, className: "git" },
-    { name: "GitHub", percent: 90, className: "github" }
+    { name: "GitHub", percent: 90, className: "github" },
+    {name: "PHP",percent:80,className:"php"},
+    {name: "PYTHON",percent:70,className:"python"},
+    {name: "WordPress",percent:70,className:"Wordpress"},
+    {name: "AWS",percent:70,className:"aws"},
+    {name: "AZZURE",percent:70,className:"azure"},
+
   ];
   
 
