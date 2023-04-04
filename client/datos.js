@@ -137,6 +137,6 @@ const experience = [
   
 
 
-  const presentacion = "¡Hola! Soy un programador perseverante y apasionado por las soluciones eficientes y escalables. Tengo experiencia en Node.js, TypeScript, React, C# y Java, y estoy dispuesto a aprender nuevas tecnologías. Además, cuento con formación académica en ingeniería industrial y análista progrmador. Me enfoco en seguir buenas prácticas de programación y crear soluciones de calidad para mis proyectos. ¡Estoy emocionado por ser parte de nuevos desafíos!"
+  const presentacion = "¡Hola! Soy un programador perseverante y apasionado por las soluciones eficientes y escalables. Tengo experiencia en Node.js, TypeScript, React, C# y Java, y estoy dispuesto a aprender nuevas tecnologías. Además, cuento con formación académica en ingeniería industrial y analista programador. Me enfoco en seguir buenas prácticas de programación y crear soluciones de calidad para mis proyectos. ¡Estoy emocionado por ser parte de nuevos desafíos!"
   
   
